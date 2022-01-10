@@ -1801,10 +1801,10 @@
     gatsby-transformer-sharp "^4.4.0"
     lodash.kebabcase "^4.1.1"
 
-"@lekoarts/gatsby-theme-jodie@^3.0.0":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-jodie/-/gatsby-theme-jodie-3.0.2.tgz#abf93ae703134722a7df6e1ba75b3724340a5595"
-  integrity sha512-Xqvcm5eVwfNn5Y33MsKccAhHKqa4HNgMmgzzYaSjl0BADsC0b+orJSxMSZEOebnZMRqD/vGSS6KsUUg8m7FzaQ==
+"@lekoarts/gatsby-theme-jodie@^3.0.3":
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-jodie/-/gatsby-theme-jodie-3.0.3.tgz#74f50cf0153c6bfb9295dfff017db4e55a9f6e7a"
+  integrity sha512-FvkDGyordYPR7fN5UCM5A+YiR819Z4dNnLlozab54a4+8CIGoc6VSqBLN+plIoX6zEYJfKWjHYbEa9bbKM1Nqw==
   dependencies:
     "@lekoarts/gatsby-theme-jodie-core" "^3.0.2"
     "@theme-ui/presets" "^0.11.1"
